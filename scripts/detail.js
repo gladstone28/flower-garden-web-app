@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
         'ti-plant': {
             name: 'Ti Plant',
             image: 'images/ti-plant.jpg',
-            description: 'The Ti Plant, also known as the Good Luck Plant or Hawaiian Ti, is known for its colorful foliage, which can range from green to red, purple, or even variegated patterns. It is a popular choice for tropical landscaping.'
+            description: 'This plant in the Roseberry Garden is the Ti Plant (Cordyline fruticosa), also known as the Hawaiian Ti Plant or Good Luck Plant. This plant is known for its striking foliage, which can range in color from green to red, purple, or even variegated patterns. The leaves are typically long, broad, and pointed, often with a glossy finish. ' +
+                        'The Ti Plant is often used in landscaping for its vibrant color and is also popular in tropical and subtropical gardens. In many cultures, it is believed to bring good luck and is sometimes used in religious or spiritual ceremonies.'
         }
     };
 
