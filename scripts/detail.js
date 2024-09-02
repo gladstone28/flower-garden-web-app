@@ -6,22 +6,22 @@ document.addEventListener("DOMContentLoaded", () => {
         'ixora': {
             name: 'Ixora',
             image: 'images/ixora.jpg',
-            description: 'Ixora is a genus of flowering plants in the family Rubiaceae. It is commonly known for its bright clusters of flowers, which bloom in a variety of colors including red, orange, pink, and yellow.'
+            description: 'Ixora is growing in the Roseberry Garden. Ixora is a popular ornamental shrub known for its clusters of brightly colored flowers, which can range from red, orange, pink, to yellow. It is often used in gardens and landscaping due to its vibrant appearance and ability to attract pollinators like butterflies. This plant is commonly found in tropical and subtropical regions.'
         },
         'crossandra': {
             name: 'Crossandra',
             image: 'images/crossandra.jpg',
-            description: 'Crossandra, also known as Firecracker Flower, is a tropical plant known for its bright orange flowers and glossy, dark green leaves. It is often grown as an ornamental plant in gardens.'
+            description: 'This flower which is located at the grill at Roseberry is known as Crossandra. Specifically, this looks like the Crossandra infundibuliformis, commonly referred to as the Firecracker Flower. It is a popular ornamental plant in tropical regions, admired for its bright orange or salmon-colored flowers and shiny, dark green leaves. Crossandra is often grown in pots or gardens and blooms throughout the year in warm climates.'
         },
         'crown-of-thorns': {
             name: 'Crown of Thorns',
             image: 'images/crown-of-thorns.jpg',
-            description: 'The Crown of Thorns is a popular houseplant known for its thorny stems and vibrant red or pink bracts. It is a succulent that can thrive in warm, sunny environments and is often associated with Christian symbolism.'
+            description: 'This flower at the corner of the house at Roseberry is known as the Crown of Thorns (Euphorbia milii). It is a popular ornamental plant, known for its vibrant red or pink bracts (which are often mistaken for flowers) and its thorny stems. The actual flowers are small and found at the center of the colorful bracts. Crown of Thorns is a hardy succulent that thrives in warm, sunny environments and is often grown in pots or as part of a garden landscape. It is also associated with Christian symbolism due to its thorny appearance, resembling the crown of thorns worn by Jesus during the crucifixion.'
         },
         'golden-duranta': {
             name: 'Golden Duranta',
             image: 'images/golden-duranta.jpg',
-            description: 'Golden Duranta is a fast-growing evergreen shrub known for its bright, golden-yellow foliage. It is often used in landscaping as a hedge or ornamental plant, and can produce lavender-colored flowers and golden berries.'
+            description: 'The plant along the wall by the swimming pool is named the Golden Duranta (Duranta erecta "Golden Edge" or Duranta repens). This plant is known for its bright, golden-yellow foliage, which makes it a popular choice for hedges and borders in gardens. The Golden Duranta is a fast-growing, evergreen shrub that can also produce small, lavender-colored flowers and golden berries. It thrives in warm, sunny climates and is often used in landscaping for its vibrant color and ease of care. Other names for the plant are Golden Dewdrop, Pigeon Berry or Skyflower.'
         },
         'ti-plant': {
             name: 'Ti Plant',
